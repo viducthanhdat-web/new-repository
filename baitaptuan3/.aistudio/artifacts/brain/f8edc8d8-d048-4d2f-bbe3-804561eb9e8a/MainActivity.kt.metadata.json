@@ -1,0 +1,6 @@
+{
+  "summary": "A complete Native Android (Kotlin & Jetpack Compose) implementation of the tutorial app. This single-file reference includes the Activity, Theme, and all screens (Welcome, List, Text, Images, Input, and Layouts).",
+  "updatedAt": "2026-10-19T08:05:06.565832265Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
