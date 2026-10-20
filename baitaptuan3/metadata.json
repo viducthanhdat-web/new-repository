@@ -1,6 +1,0 @@
-{
-  "name": "Jetpack Compose Tutorial",
-  "description": "An interactive tutorial app demonstrating UI components and layouts in Jetpack Compose, built with React.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
