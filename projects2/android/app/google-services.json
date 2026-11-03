@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719634165114",
+    "project_id": "odo-uth",
+    "storage_bucket": "odo-uth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719634165114:android:2a6f0d2fee341eee71fac3",
+        "android_client_info": {
+          "package_name": "com.example.projects2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-lEWGoTHJhG18Z6JFWhjGvYq_l3HBogM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
